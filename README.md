@@ -9,15 +9,10 @@ This repository provides a complete analysis of historical price data for variou
 - Generate insights useful for agriculture, global trade, and investment decisions.
 
 ## 📂 Contents
-- `agricultural_raw_material.csv`: raw data including prices and percentage changes.
+- `agricultural_raw_material.csv`: raw data including prices and percentage changes. Provided by Michael Scott on kaggle.
 - `analysis.ipynb` (or `.py`): notebook or script containing data cleaning, descriptive statistics, plots, and interpretations.
 - Visualizations: time series plots, histograms, boxplots, heatmaps, and scatter plots.
 
 ## 🛠 Technologies Used
 - **Python**: `pandas`, `numpy` for data analysis
 - **Matplotlib**, **Seaborn** for data visualization
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thiagoCardoso13/Agricultural_Raw_Material_prices.git
